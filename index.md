@@ -1,2 +1,4 @@
 ## Header
 I made a change to the header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
